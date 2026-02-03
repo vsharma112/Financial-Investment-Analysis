@@ -33,6 +33,6 @@ This project looks at real-world investment data to understand how a portfolio p
 * Adopt data-driven decision making to support strategic choices around asset allocation, risk management, and investment timing.
 
 Dashboard Preview:
-## 📊 E-commerce-sales-dashboard
+## 📊 Financial Dashboard
 
-![assets/e-commerce-sales-dashboard.png](https://github.com/vsharma112/E-commerce-Sales-Analysis/blob/main/E-Commerce%20Sales%20Dashboard.png)
+![assets/Financial Dashboard.png](https://github.com/vsharma112/Financial-Investment-Analysis/blob/main/Financial%20Dashboard.png)
